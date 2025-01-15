@@ -3,7 +3,7 @@
 Proyek *arcade space shooter* pertama saya menggunakan GameMaker Studio 2! Saya membuat game ini sambil mengikuti tutorial dari GameMaker.io untuk mempelajari konsep dasar pengembangan game.
 
 ![Screenshot Game (Jika ada)](screenshot.png)
-
+![Deskripsi GIF](space-rocks.gif)
 ## Deskripsi
 
 Dalam "Space Rocks", pemain mengendalikan pesawat luar angkasa dan harus menembak asteroid yang berdatangan. Ini adalah proyek pembelajaran yang sederhana, namun mencakup beberapa elemen penting dalam game arcade.
